@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         b-i-l-i-b-i-l-i-m-a-n-g-a
 // @namespace    b-i-l-i-b-i-l-i-m-a-n-g-a.user.js
-// @version      2024.12.13
+// @version      2025.01.18
 // @description  down b-i-l-i-b-i-l-i-m-a-n-g-a
 // @author       You
 // @include      /^https:\/\/m[a4]ng[a4]\.b[i1]lib[i1]l[i1]\.c[o0]m\/mc.+?\/.+?/
